@@ -1,1 +1,1 @@
-# Sistem-Programlama-Proje--G231210048--G231210570
+Öncesinde test dosyaları oluşturun lütfen.
